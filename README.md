@@ -1,2 +1,2 @@
 # decimal_to_hex
-sdfsdf
+converts decimal to hex in c. 
