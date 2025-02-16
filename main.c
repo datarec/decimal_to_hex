@@ -1,3 +1,6 @@
+// program to convert decimal to hex. 
+// ovh.feminine216@passinbox.com
+
 #include <stdio.h>
 
 
